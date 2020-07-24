@@ -30,7 +30,7 @@ const Header = (props) => {
         <Collapse isOpen={isOpen}  navbar>
         
         <Nav className="text-capitalize ml-auto" id="nav-collapse" navbar>
-            <NavItem><NavLink href="#header" className="text-muted mx-2 text-capitalize">Product</NavLink> </NavItem>
+            <NavItem><NavLink href="#navbar" className="text-muted mx-2 text-capitalize">Product</NavLink> </NavItem>
             <NavItem><NavLink href="#features" className="text-muted mx-2 text-capitalize">features</NavLink> </NavItem> 
             <NavItem><NavLink href="#testimonial" className="text-muted mx-2 text-capitalize">reviews</NavLink></NavItem> 
             <NavItem><NavLink href="#pricing" className="text-muted mx-2 text-capitalize">  pricing</NavLink></NavItem> 
