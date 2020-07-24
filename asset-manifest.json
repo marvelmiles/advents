@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/advents/static/css/main.cf4ae164.chunk.css",
+    "main.js": "/advents/static/js/main.e557aa51.chunk.js",
+    "main.js.map": "/advents/static/js/main.e557aa51.chunk.js.map",
+    "runtime-main.js": "/advents/static/js/runtime-main.7751c276.js",
+    "runtime-main.js.map": "/advents/static/js/runtime-main.7751c276.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/advents/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6bf544b9.chunk.js": "/advents/static/js/2.6bf544b9.chunk.js",
+    "static/js/2.6bf544b9.chunk.js.map": "/advents/static/js/2.6bf544b9.chunk.js.map",
+    "index.html": "/advents/index.html",
+    "precache-manifest.1107462041df04ec9ae7e3a591d63fcf.js": "/advents/precache-manifest.1107462041df04ec9ae7e3a591d63fcf.js",
+    "service-worker.js": "/advents/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/advents/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.cf4ae164.chunk.css.map": "/advents/static/css/main.cf4ae164.chunk.css.map",
+    "static/js/2.6bf544b9.chunk.js.LICENSE.txt": "/advents/static/js/2.6bf544b9.chunk.js.LICENSE.txt",
+    "static/media/advent.css": "/advents/static/media/Desert.ba45c8f6.jpg",
+    "static/media/amazon_logo.png": "/advents/static/media/amazon_logo.c12a40bb.png",
+    "static/media/details.jpg": "/advents/static/media/details.e5ca374b.jpg",
+    "static/media/all.css": "/advents/static/media/fa-solid-900.815694de.woff",
+    "static/media/hero.jpg": "/advents/static/media/hero.a1e14a62.jpg",
+    "static/media/pricing_image.jpg": "/advents/static/media/pricing_image.18308b4a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7751c276.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6bf544b9.chunk.js",
+    "static/css/main.cf4ae164.chunk.css",
+    "static/js/main.e557aa51.chunk.js"
+  ]
+}
