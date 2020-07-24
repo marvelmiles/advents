@@ -1,0 +1,258 @@
+/* GENERALS & UTILITIES */
+
+:root{
+    --primary: #82714a !important;
+    --secondary: rgba(204,204,204,.4) !important;
+    --light-pri: rgba(104,90,59,.6);
+    --light-sec:rgba(204,204,204,.1);
+    
+}
+
+
+*{margin:0; padding:0; box-sizing:border-box;}
+
+ 
+.img-width, .img{
+    width:300px !important;
+    height:300px !important;
+}
+
+html,#features,#pricing,#reviews,#product,#contact{
+    scroll-behavior:smooth;
+}
+
+
+a{
+    text-decoration:none;
+    white-space:nowrap;
+}
+
+
+li{
+    list-style:none;
+}
+
+/* nav styles */
+
+
+.nav-top{ 
+   top:28px !important;
+   background:transparent;
+   transition:all 500ms ease-in-out;
+ }
+
+ .nav-0{
+     top:0;
+     background:#fff !important;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+     transition:all 500ms ease-in-out !important;
+ }
+ 
+ 
+
+.navbar-toggler{
+    outline:none!important;
+   box-shadow:none !important;
+}
+
+.cus-text-pri{
+    color:var(--primary);
+}
+
+.cus-bg-pri{
+    background: var(--primary)!important ;
+}
+
+.cus-bg-sec{
+    background:var(--secondary);
+}
+
+.cus-border-white{
+    border:2px solid #fff !important;
+    outline:none;
+}
+ 
+
+/*PRODUCT */
+#product{
+    margin-top:15vh;
+}
+ 
+.product-btn{
+   background:transparent !important;
+   border:1px solid var(--primary) !important;
+   color:  var(--primary) ;
+   padding:10px 21px !important;
+   outline:none !important;
+   letter-spacing:2px !important;
+}
+
+
+
+.product-btn:hover{
+   background:var(--primary) !important;
+   color:#fff !important;
+}
+
+
+.product-right,.product-left{
+   margin-top:100px;
+}
+ 
+
+/*Testimonial */
+
+#testimonial{
+   background: var(--secondary);
+width:100% !important;
+
+   }
+    
+.customer{
+   font-family:'Josefin Sans';
+   color: #111111 !important;
+}
+
+
+
+/* feature list */
+
+.feature-list{
+   font-size:12px !important;
+}
+.font-12{
+    font-size:15px !important;
+} 
+ 
+
+#feature-sub{
+   
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(146, 127, 84, 0.99)), url('./image/Desert.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   padding: 150px 0 150px 0;
+}
+
+/*light shade */
+.feature2-btn{
+    background:var(--primary) !important;
+    color:#fff !important;
+}
+
+ 
+
+
+
+
+/*PRICING */
+
+.pricing-content{
+   margin-top:120px;
+}
+
+.pricing-tag{
+   font-size:18px;
+}
+
+
+/*A lighter shade of primary color . change the var*/
+.to-top{
+   width:50px;
+   height:50px;
+   border-radius:50%;
+   background:var(--light-pri);
+   padding:5px;
+   color:#fff;
+  }
+  .show-to-top{
+      opacity:1;
+      pointer-events: visible;
+      transition:all 1s ease-in-out;
+  }
+  .hide-to-top{
+      opacity:0;
+      pointer-events: none;
+      transition:all 1s ease-in-out;
+  }
+  
+
+
+
+@media screen and (min-width:576px){
+ 
+   .img,.img-width{
+       width:500px !important;
+       height:500px !important;
+       
+   }
+
+   .feature2 h3{
+     font-weight:normal !important;
+   }
+
+   .feature2{
+    
+       width:75% !important;
+       text-align:justify !important;
+       float:left !important;
+   }
+
+}
+
+
+@media screen and (min-width:786px){
+ 
+    .img,.img-width{
+        width:360px !important;
+        height:360px !important;
+        }
+
+       
+.product-left{
+    margin-top:0 !important;
+ } 
+
+  .feature-list{
+         
+        margin-top:10vh !important;
+    }
+
+    .feature-list ul{
+        text-align:justify !important;
+    }
+   
+.li-circle{
+   list-style-type: circle;
+   
+   font-size:18px !important;
+}
+
+.feature-sub{
+    width:75% !important;
+}
+
+.pricing-content{
+    text-align:justify !important;
+}
+
+.feature2{width:75% !important; text-align:justify!important; float:right !important;}
+
+}
+
+
+/* queries */
+ 
+@media screen and (min-width:992px){
+    .collapse{
+        background:transparent !important;
+        color:var(--secondary) !important;
+    }
+
+}
+
+@media screen and (min-width:1024px){
+    .feature2{
+        width:50% !important;
+    }
+}
