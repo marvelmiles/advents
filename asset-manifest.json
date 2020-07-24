@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/advents/static/css/main.cf4ae164.chunk.css",
-    "main.js": "/advents/static/js/main.e557aa51.chunk.js",
-    "main.js.map": "/advents/static/js/main.e557aa51.chunk.js.map",
+    "main.js": "/advents/static/js/main.cdf3dda5.chunk.js",
+    "main.js.map": "/advents/static/js/main.cdf3dda5.chunk.js.map",
     "runtime-main.js": "/advents/static/js/runtime-main.7751c276.js",
     "runtime-main.js.map": "/advents/static/js/runtime-main.7751c276.js.map",
     "static/css/2.af3c1da9.chunk.css": "/advents/static/css/2.af3c1da9.chunk.css",
     "static/js/2.6bf544b9.chunk.js": "/advents/static/js/2.6bf544b9.chunk.js",
     "static/js/2.6bf544b9.chunk.js.map": "/advents/static/js/2.6bf544b9.chunk.js.map",
     "index.html": "/advents/index.html",
-    "precache-manifest.1107462041df04ec9ae7e3a591d63fcf.js": "/advents/precache-manifest.1107462041df04ec9ae7e3a591d63fcf.js",
+    "precache-manifest.4ba6ceecf3cf56aab46a889074713b48.js": "/advents/precache-manifest.4ba6ceecf3cf56aab46a889074713b48.js",
     "service-worker.js": "/advents/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/advents/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.cf4ae164.chunk.css.map": "/advents/static/css/main.cf4ae164.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.6bf544b9.chunk.js",
     "static/css/main.cf4ae164.chunk.css",
-    "static/js/main.e557aa51.chunk.js"
+    "static/js/main.cdf3dda5.chunk.js"
   ]
 }
