@@ -32,7 +32,7 @@ const Main = ()=>{
 
             <Col  xs="12" md="6"  className="">
        <div className="product-right">
-            <h3 className="product-right-item">Wireless Bluetooth Speakers of tomorrow let us witnes the new tommorow</h3>
+            <h3 className="product-right-item">Wireless Bluetooth Speakers of tomorrow </h3>
             <p className="text-muted product-right-item">Beoplay A1 bluetooth speakers image on the left is owned by Bang and Olufsen and is released under creative commons lisence. So, I downloaded it and displayed it here in my demo.</p>
              <a className="btn rounded-0 my-3 product-btn product-right-item">Read More</a>
        </div>
