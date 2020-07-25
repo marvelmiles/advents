@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6e93697f15b5c92cff5e83972d879aae",
+    "revision": "59584045c6242f05a482bc5c7395b1c5",
     "url": "/advents/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/advents/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "e9cf3d105210ed608fc9",
+    "revision": "07460568e767c532f700",
     "url": "/advents/static/css/main.cf4ae164.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/advents/static/js/2.6bf544b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e9cf3d105210ed608fc9",
-    "url": "/advents/static/js/main.18dc60f1.chunk.js"
+    "revision": "07460568e767c532f700",
+    "url": "/advents/static/js/main.c789838b.chunk.js"
   },
   {
     "revision": "795892f880edd3378230",
